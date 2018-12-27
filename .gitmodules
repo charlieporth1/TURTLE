@@ -1,0 +1,18 @@
+[submodule "LANTurtleModules"]
+	path = LANTurtleModules
+	url = https://github.com/CarletonStuberg/LANTurtleModules
+[submodule "lanturtle"]
+	path = lanturtle
+	url = https://github.com/ayronherman/lanturtle
+[submodule "lanturtle-files"]
+	path = lanturtle-files
+	url = https://github.com/superteece/lanturtle-files
+[submodule "hak5"]
+	path = hak5
+	url = https://github.com/hanshaze/hak5
+[submodule "openwrt-lanturtle"]
+	path = openwrt-lanturtle
+	url = https://github.com/gamamaru6005/openwrt-lanturtle
+[submodule "Int3rcept0r"]
+	path = Int3rcept0r
+	url = https://github.com/CuPcakeN1njA/Int3rcept0r
